@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.1.9)  9 JAN 2022 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2022.1.9)  9 JAN 2022 22:37
 entering extended mode
-**./Stanton,Harrison_Resume2021.tex
-(Stanton,Harrison_Resume2021.tex
+**./Stanton,Harrison_Resume2022.tex
+(Stanton,Harrison_Resume2022.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Users\Harri\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -70,8 +70,9 @@ tex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count192
 \l__pdf_internal_box=\box48
-) (Stanton,Harrison_Resume2021.aux)
-\openout1 = `Stanton,Harrison_Resume2021.aux'.
+)
+No file Stanton,Harrison_Resume2022.aux.
+\openout1 = `Stanton,Harrison_Resume2022.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -87,7 +88,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -131,11 +131,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {C:/Users/Harri/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-(Stanton,Harrison_Resume2021.aux) ) 
+(Stanton,Harrison_Resume2022.aux) ) 
 Here is how much of TeX's memory you used:
- 1292 strings out of 479334
- 19964 string characters out of 2857085
- 321015 words of memory out of 3000000
+ 1290 strings out of 479334
+ 19876 string characters out of 2857085
+ 321024 words of memory out of 3000000
  18792 multiletter control sequences out of 15000+200000
  408330 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -145,7 +145,7 @@ X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Harri/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Harri/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Harri/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Stanton,Harrison_Resume2021.pdf (2 pages, 68901 bytes).
+Output written on Stanton,Harrison_Resume2022.pdf (2 pages, 68901 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
